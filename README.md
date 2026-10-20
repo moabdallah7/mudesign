@@ -1,9 +1,28 @@
 # MUDESIGN
 
-The launch carousel builder by MUDOLOOO Studios.
+**Create launch carousels directly in your browser.**
 
-Browser-based carousel maker. No server, no accounts, no uploads — a user's
-words and images never leave their browser.
+Turn your words and images into exportable carousel visuals with MUDESIGN, by MUDOLOOO Studios. No account required; editing and image export happen locally in your browser.
+
+[**Open the live app →**](https://moabdallah7.github.io/mudesign/)
+
+![MUDESIGN — launch carousel builder](assets/og-mudesign.jpg)
+
+## At a glance
+
+- **Browser-based workflow:** create and export visuals without uploading your content.
+- **Focused implementation:** vanilla JavaScript, SVG rendering, and no npm dependencies.
+- **Efficient delivery:** compressed production assets and fonts loaded as needed.
+
+## Run locally
+
+```sh
+git clone https://github.com/moabdallah7/mudesign.git
+cd mudesign
+npm start
+```
+
+Requires Node.js and npm. The local server runs at `http://localhost:4190`.
 
 ## Commands
 
